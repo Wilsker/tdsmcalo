@@ -7,6 +7,8 @@ Possible to run the jupyter notebook using CERNs Service for Web based ANalysis,
 To start your SWAN session now, go to:
 https://swan.cern.ch
 
+Using slightly older version of CUDA now (102 CUDA 11.2 GPU) because the provided PTX was compiled with an unsupported toolchain in 102b CUDA 11.7.1
+
 More info on using SWAN can be found here:
 https://swan.docs.cern.ch
 
